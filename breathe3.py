@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Ultra-Fast Video to SRT Converter
-Optimized for HP Pavilion i5 CPU with speed modes and time estimation.
+Optimized for pc with i5 CPU with speed modes and time estimation.
 Uses whisper.cpp for maximum CPU performance.
 """
 
